@@ -1,0 +1,49 @@
+body{
+    background-color: cadetblue;
+}
+
+
+.container{
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid:orchid;
+    border-radius: 5px;
+    background-color:pink;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    padding: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+  }
+  
+  .high-priority {
+    color: red;
+  }
+  
